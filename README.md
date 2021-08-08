@@ -2,7 +2,7 @@
 
 This repository project is based on Nana Janashia 's Udemy's course "logging-in-kubernetes-with-efk-stack" with minor changes.
 
-This project basically has logs from the java app and node app captured by fluentd.Fluentd processes the logs and sends it the elasticsearch store and can be visualised using the kibana.
+This project basically has logs from the java app and node app captured by fluentd.Fluentd processes the logs and sends it the elasticsearch store and can be visualised using the kibana.The entire cluster is setup in Linode Kubernetes engine(LKE).
 
 ### Set up elastic stack in kubernetes cluster (EFK) Elastic - FluentD - Kibana
 
